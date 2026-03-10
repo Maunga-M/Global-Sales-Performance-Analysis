@@ -28,7 +28,7 @@ The goal of this analysis was to explore internal sales patterns and identify po
 
 # Key Insights
 
-![Sales Dashboard](images/dashboard_preview.png)
+![Sales Dashboard](images/dashboard.png)
 
 **Interactive dashboard:**  
 View the full interactive version on Tableau Public: https://public.tableau.com/app/profile/maunga.m1851/viz/SalesPerformance_17730508571460/Dashboard
